@@ -1,0 +1,6 @@
+
+C	java:S1089")Either remove or fill this block of code.(¤Å×¯ıÿÿÿÿ
+C	java:S108R")Either remove or fill this block of code.(Ü®íøşÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(È¨
+f	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Œ§
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÔº
