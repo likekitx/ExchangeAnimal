@@ -1,25 +1,0 @@
-
-i
-java:S1450"SRemove the "clip" field and declare it as a local variable in the relevant methods.(Èğ‚
-X	java:S125"<This block of commented-out lines of code should be removed.(›ÓÉâ8öƒú¯0
-X	java:S125"<This block of commented-out lines of code should be removed.(Û“¤8Àğù¯0
-Q	java:S125"<This block of commented-out lines of code should be removed.(çÏó
-X	java:S125 "<This block of commented-out lines of code should be removed.(Ø·°8Ë®ø¯0
-L
-java:S2696'"6Make the enclosing method "static" or remove this set.(¾ÌÜÀ
-Q	java:S125*"<This block of commented-out lines of code should be removed.(¨°¡Ù
-V	java:S1250"<This block of commented-out lines of code should be removed.(ô‚­şÿÿÿÿ
-W
-java:S1128"5Remove this unused import 'com.sun.tools.javac.Main'.( ƒ™şüÿÿÿÿ8Ë®ø¯0
-K
-java:S1128
-")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8Ë®ø¯0
-M
-java:S1128"0Remove this unused import 'java.net.URLDecoder'.(œ®ô„8Àğù¯0
-[
-java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8Àğù¯0
-P
-java:S1191"5Use classes from the Java API instead of Sun classes.( ƒ™şüÿÿÿÿ
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÔº
-=
-java:S21895""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ

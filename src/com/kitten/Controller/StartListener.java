@@ -58,6 +58,8 @@ public class StartListener implements ActionListener {
             gameView.removeLabel(gamePanel);
             gameView.setGameView(gamePanel, this.gameView,restartList);
             System.out.println("点击了重新开始");
+            //清空操作
+            restartList.remove();
         }
     }
 }

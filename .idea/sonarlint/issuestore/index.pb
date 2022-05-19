@@ -1,14 +1,6 @@
 
-L
-src/com/kitten/main/App.java,f\e\fee646f2b105273ab7190c6b3a994f739a32c8b6
 ^
 .src/com/kitten/Controller/RestartListener.java,7\4\74f04b7a21f8eb947c683f10c4f02c0c526f6b61
-b
-2src/com/kitten/Controller/RestartListenerImpl.java,8\9\896ee19f3c8cc223d60b9bd1d9b5daca74a28fcb
-Y
-)src/com/kitten/Model/RestartListImpl.java,c\4\c474b2f39235e89aecb27ba3975f6c4a86584da3
-U
-%src/com/kitten/Model/RestartList.java,3\b\3bacff1bd7cd307510b916dcd42c0a2794165126
 U
 %src/com/kitten/Model/RightAnimal.java,e\2\e2eb623e9b6dd1d3609ec6380c4481146f419560
 S
@@ -21,8 +13,6 @@ W
 'src/com/kitten/View/ButtonViewImpl.java,a\9\a9c0b12e7b868aa49f2ab1f9248ce62fc8af7ebe
 S
 #src/com/kitten/View/ButtonView.java,0\a\0a5e08ea771005bb20aa817d2d1231030c07a7c6
-U
-%src/com/kitten/View/AppStartImpl.java,f\a\fa673ed799a8dbd0a3a42985dd720ac8a176613a
 U
 %src/com/kitten/View/GameViewImpl.java,e\8\e8380564d3daf7e7a997aae363ce66c26d155841
 Q
@@ -43,7 +33,3 @@ Y
 )src/com/kitten/Model/RightAnimalImpl.java,c\9\c9d3a8a1e1902c7495713b0da0dbb3bde7dfb5f6
 H
 src/META-INF/MANIFEST.MF,e\4\e4b1fd2293ba1e598e6bec4e0ee3b6b6851eb5a2
-O
-src/com/kitten/Model/Music.java,9\0\908a54c21e184612b7b0b0170e6978620e166468
-\
-,src/com/kitten/Controller/StartListener.java,b\c\bc779d8279bd72cde15adfe7edb052da324499a9

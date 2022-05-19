@@ -15,4 +15,9 @@ public interface RestartList {
      * 提供弹出上一次操作的方法
      */
     public Object[] pop();
+    /**
+     *
+     * 清空集合
+     */
+    public void remove();
 }

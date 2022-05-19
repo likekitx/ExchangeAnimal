@@ -19,4 +19,9 @@ public class RestartListImpl implements RestartList{
     public Object[] pop(){
         return linkedList.removeFirst();
     }
+
+    @Override
+    public void remove() {
+        linkedList.clear();
+    }
 }
