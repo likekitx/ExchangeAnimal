@@ -22,6 +22,7 @@ public class ButtonViewImpl implements ButtonView {
         JButton jButton = new JButton();
         Color color = new Color(253, 221, 227);
         jButton.setText("开始");
+        jButton.setFont(new Font("宋体",Font.BOLD,20));
         jButton.setBounds(x,y,width,height);
         jButton.setBackground(color);
         return jButton;
@@ -30,6 +31,7 @@ public class ButtonViewImpl implements ButtonView {
     public JButton getButtonRevocation(){
         JButton jButton = new JButton();
         jButton.setText("撤销");
+        jButton.setFont(new Font("宋体",Font.BOLD,20));
         jButton.setBounds(730,15,90,40);
         jButton.setBackground(new Color(253, 221, 227));
         return jButton;

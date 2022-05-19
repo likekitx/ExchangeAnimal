@@ -9,27 +9,13 @@ G
 src/com/kitten/App.java,4\7\47811d9f7dbb17e1efcff121aa9472323896e1e5
 Q
 !src/com/kitten/View/AppStart.java,e\7\e719994ea4876c1db06253303e1aa927e0c803a7
-W
-'src/com/kitten/View/ButtonViewImpl.java,a\9\a9c0b12e7b868aa49f2ab1f9248ce62fc8af7ebe
 S
 #src/com/kitten/View/ButtonView.java,0\a\0a5e08ea771005bb20aa817d2d1231030c07a7c6
-U
-%src/com/kitten/View/GameViewImpl.java,e\8\e8380564d3daf7e7a997aae363ce66c26d155841
-Q
-!src/com/kitten/View/GameView.java,4\d\4dd0dcdb4cf3f24d55a16e5872a7dee9d5243e62
 T
 $src/com/kitten/Model/LeftAnimal.java,c\d\cdd249f3c2a10236a075671ec358d32d6c61f62e
 O
 src/com/kitten/View/Animal.java,b\a\ba2466111d792c24dec31ac1660caedc9cf3eb4d
-P
- src/com/kitten/Model/Animal.java,b\d\bd4de0db006061d41323c971bcae1ba616955d76
-T
-$src/com/kitten/Model/AnimalImpl.java,f\9\f9f226e34d594f732df51b335dff40c97e66c26f
 _
 /src/com/kitten/Controller/GameMouseAdapter.java,9\2\92de4e9ecb5d9e686467ffe7d1aa75590debef90
-X
-(src/com/kitten/Model/LeftAnimalImpl.java,a\3\a34a4396eab29d2a84795a66b1b4d5222acf0c6f
-Y
-)src/com/kitten/Model/RightAnimalImpl.java,c\9\c9d3a8a1e1902c7495713b0da0dbb3bde7dfb5f6
 H
 src/META-INF/MANIFEST.MF,e\4\e4b1fd2293ba1e598e6bec4e0ee3b6b6851eb5a2

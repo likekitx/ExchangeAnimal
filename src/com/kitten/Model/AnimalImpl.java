@@ -20,11 +20,16 @@ public class AnimalImpl implements Animal {
      *  7个小面板
      */
     Component[] gamePanelArray;
+    /**
+     * 保存操作
+     */
+    RestartList restartList;
 
     public AnimalImpl() {}
 
-    public AnimalImpl(JPanel gamePanel) {
+    public AnimalImpl(JPanel gamePanel,RestartList restartList) {
         this.gamePanel = gamePanel;
+        this.restartList = restartList;
     }
     @Override
     public JPanel getGameJanel(int index){
@@ -98,6 +103,7 @@ public class AnimalImpl implements Animal {
         System.out.println("交换完了");
         if(isTrue()){
             JOptionPane.showMessageDialog(gamePanel,"恭喜通关");
+            restartList.remove();
         }
     }
 }

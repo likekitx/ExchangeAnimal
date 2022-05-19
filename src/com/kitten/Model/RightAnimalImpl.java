@@ -15,7 +15,7 @@ public class RightAnimalImpl implements RightAnimal {
     public void rightExchange(int i, JPanel game, RestartList restartList){
         this.game = game;
         int end;
-        animal = new AnimalImpl(game);
+        animal = new AnimalImpl(game,restartList);
         //获取现在的面板
         thisJpanel = animal.getJpanel(i);
         int thisName = Integer.parseInt(thisJpanel.getName());

@@ -14,7 +14,7 @@ public class LeftAnimalImpl implements LeftAnimal{
     public void leftExchange(int i, JPanel game, RestartList restartList){
         //当前下标的前两个下标，因为中间有两个就不能换；
         int end;
-        animal = new AnimalImpl(game);
+        animal = new AnimalImpl(game,restartList);
         //获取现在的面板
         thisJpanel = animal.getJpanel(i);
         int thisName = Integer.parseInt(thisJpanel.getName());

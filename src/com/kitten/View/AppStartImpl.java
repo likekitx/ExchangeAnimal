@@ -59,7 +59,7 @@ public class AppStartImpl implements AppStart {
         //创建标签
         JLabel label = gameView.getJLabel("动 物 交 换");
         label.setBounds(450,30,500,350);
-        label.setFont(new Font("宋体",Font.BOLD,40));
+        label.setFont(new Font("宋体",Font.BOLD,45));
         gamePanel.add(label);
         jFrame.add(gamePanel);
         //设置可见
